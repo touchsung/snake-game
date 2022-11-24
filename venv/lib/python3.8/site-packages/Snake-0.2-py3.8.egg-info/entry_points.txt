@@ -1,0 +1,3 @@
+[console_scripts]
+snake = snake.core:snake.run
+
